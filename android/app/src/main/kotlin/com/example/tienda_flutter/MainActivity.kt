@@ -1,4 +1,4 @@
-package com.example.demo_cgpi
+package com.example.tienda_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
